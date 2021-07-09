@@ -1,0 +1,21 @@
+pandas
+numpy
+s3
+s3fs
+fsspec
+sklearn
+name: BXDmice-project
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - numpy
+  - pandas
+  - networkx
+  - matplotlib
+  - pandas
+  - scipy
+  - s3
+  - s3fs
+  - fsspec
+  - sklearn
