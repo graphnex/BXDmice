@@ -9,7 +9,6 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
-  - s3
   - s3fs
   - fsspec
-  - sklearn
+  - scikit-learn
