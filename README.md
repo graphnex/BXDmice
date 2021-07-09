@@ -13,7 +13,7 @@ Here is the list of notebooks with a short description.
 
 There are several possible ways to run the notebooks.
 * clone the repository on a local machine with python and jupyter installed, along with several data mining and machine learning modules. The simplest is to install Anaconda. 
-* The nobebooks can be run online for example using Binder. Everything will run online without the need to install anything on the personal machine. However it may be slower and the user can experience disconnections during long period of inactivity.
+* The nobebooks can be run online for example using [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/graphnex/BXDmice/HEAD). Everything will run online without the need to install anything on the personal machine. However it may be slower and the user can experience disconnections during long period of inactivity.
 
 ## BXD data
 
