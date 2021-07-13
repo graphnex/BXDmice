@@ -18,3 +18,7 @@ There are several possible ways to run the notebooks.
 ## BXD data
 
 The dataset for the experiments is open and stored on an server from EPFL. It is a s3 storage at `'endpoint_url':'https://os.unil.cloud.switch.ch'` that can be accessed using the url `'s3://lts2-graphnex/BXDmice/`. See the notebooks for access examples.
+
+## Dataset description
+
+The dataset contains genomic data, protein expression in different body tissues of the mouse as well as the phenotype of mice over more that 5000 different experiments. The experiments cover a wide range of tests such as obesity related, insulin or expression of a variety of health markers in the mouse. 
